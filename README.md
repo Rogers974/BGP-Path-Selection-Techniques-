@@ -74,9 +74,13 @@ VPCS
 # Key Skills Demonstrated
 
 BGP configuration and troubleshooting
+
 Traffic engineering using routing policies
+
 Multi-AS network design
+
 ISP routing concepts
+
 Professional network documentation
 
 # Author
