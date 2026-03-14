@@ -1,4 +1,4 @@
-
+bgp-path-selection.png
 
 
 # BGP Path Selection Techniques
