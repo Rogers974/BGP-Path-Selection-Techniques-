@@ -39,9 +39,13 @@ To prevent routes from unwanted or specific autonomous systems from being instal
 # Verification Commands used.
 
 The following commands were used to validate BGP operation:
+
 show ip bgp
+
 show ip bgp summary
+
 show ip bgp neighbors
+
 show ip route bgp
 
 Connectivity between PC1 and PC2 was verified using:
@@ -54,11 +58,17 @@ These tests confirmed correct best path selection and traffic engineering behavi
 # Technologies Used
 
 GNS3
+
 Cisco IOS
+
 BGP
+
 Route Maps
+
 Prefix Lists
+
 AS Path Access Lists
+
 VPCS
 
 # Key Skills Demonstrated
