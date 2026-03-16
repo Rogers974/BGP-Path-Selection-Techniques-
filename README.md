@@ -1,4 +1,6 @@
 # BGP Path Selection Techniques
+<img width="1078" height="591" alt="1000106967" src="https://github.com/user-attachments/assets/d0181d85-272c-4438-8594-faaa470af76e" />
+
 
 BGP Path Selection Techniques Demonstrated
 
